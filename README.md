@@ -49,15 +49,16 @@ This project showcases an interactive Power BI dashboard built on top of a MySQL
    ```
 2. Open the MySQL database and import the ecommerce schema.
 3. Run the SQL queries in `queries.sql` to validate key business metrics.
-4. Open the Power BI dashboard file (`ecommerce_analytics.pbix`) to explore the report.
+4. Open the Power BI dashboard file (`Power bi/ecommerce_analytics.pbix`) to explore the report.
 5. Use the slicers and filters to view revenue and profitability by category, date, and customer.
+6. View the dashboard preview image in `Power bi/ecommerce_analytics_dashboard.png` for a quick visual summary.
 
 ---
 
 ## 📁 Project Files
 - `queries.sql` — SQL analytics queries
-- `dashboard.html` — HTML dashboard mockup inspired by the design
-- `ecommerce_analytics.pbix` — Power BI dashboard file
+- `Power bi/ecommerce_analytics.pbix` — Power BI dashboard file
+- `Power bi/ecommerce_analytics_dashboard.png` — dashboard preview image
 
 ---
 
